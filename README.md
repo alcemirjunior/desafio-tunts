@@ -4,6 +4,9 @@
 # clonar repositório
 https://github.com/alcemirjunior/desafio-tunts.git
 
+# fazer o build do projeto
+./mvnw clean package
+
 # entrar na pasta target
 cd target
 
